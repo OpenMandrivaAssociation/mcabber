@@ -1,6 +1,6 @@
 Summary: Console jabber client
 Name: mcabber
-Version: 0.9.1
+Version: 0.9.2
 Release: %mkrel 1
 License: GPL
 Group: Networking/Instant messaging
