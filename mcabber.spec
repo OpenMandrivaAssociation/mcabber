@@ -6,7 +6,6 @@ License: GPL
 Group: Networking/Instant messaging
 URL: http://www.lilotux.net/~mikael/mcabber/
 Source: http://www.lilotux.net/~mikael/mcabber/files/mcabber-%{version}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: gcc-c++ ncurses-devel glib2-devel openssl-devel
 
 %description
