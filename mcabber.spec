@@ -4,6 +4,7 @@ Version: 0.9.6
 Release: %mkrel 1
 License: GPL
 Group: Networking/Instant messaging
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL: http://www.lilotux.net/~mikael/mcabber/
 Source: http://www.lilotux.net/~mikael/mcabber/files/mcabber-%{version}.tar.bz2
 BuildRequires: gcc-c++ ncurses-devel glib2-devel openssl-devel
