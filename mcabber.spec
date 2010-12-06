@@ -1,7 +1,7 @@
 Summary:	Console jabber client
 Name:		mcabber
 Version:	0.10.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPLv2+
 Group:		Networking/Instant messaging
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
