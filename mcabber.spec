@@ -4,7 +4,7 @@ Version:	0.10.2
 Release:	3
 License:	GPLv2+
 Group:		Networking/Instant messaging
-Url:		http://www.lilotux.net/~mikael/mcabber/
+Url:		https://www.lilotux.net/~mikael/mcabber/
 Source0:	http://www.lilotux.net/~mikael/mcabber/files/mcabber-%{version}.tar.bz2
 Patch0:		mcabber-0.10.2-libotr4.patch
 BuildRequires:	gpgme-devel
